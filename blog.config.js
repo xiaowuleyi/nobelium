@@ -2,8 +2,8 @@ const BLOG = {
   title: '小吴乐意blog',  
   author: '小吴', 
   email: '0471666@gmail.com',     
-  link: 'https://xiaowuleyi.com',
-  description: '过着本分的生活，赚着踏实的钱，菲律宾生活记录中……',    
+  link: 'https://www.xiaowuleyi.com',
+  description: '未来的种子，深埋在过去，记录生活，热爱生活。',    
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']    
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],  
@@ -33,7 +33,7 @@ const BLOG = {
       domainId: '' // e.g '0e2257a8-54d4-4847-91a1-0311ea48cc7b' 
     },
     gaConfig: {
-      measurementId: '' // e.g: G-XXXXXXXXXX 
+      measurementId: 'G-L0ZYWHJPC3' // e.g: G-XXXXXXXXXX 
     }
   },
   comment: {
